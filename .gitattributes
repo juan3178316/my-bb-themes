@@ -5,7 +5,3 @@
 # Markdown
 *.md linguist-detectable=true
 *.md linguist-documentation=false
-
-# pictures?
-*.jpg linguist-detectable=true
-*.jpg linguist-documentation=false
